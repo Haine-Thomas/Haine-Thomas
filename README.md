@@ -1,8 +1,8 @@
 ### Bonjour et bienvenue dans mon petit laboratoire de projets! 👋
 
-📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/hainethomas/)
+#### 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/hainethomas/)
 
-📝 Qui suis-je ?
+#### 📝 Qui suis-je ?
 
 Je suis un développeur passionné, curieux et dynamique. 
 
@@ -19,7 +19,7 @@ Git
 MongoDB
 NoSQL
 
-📚 Les technos/sujets qui m'intéressent :
+#### 📚 Les technos/sujets qui m'intéressent :
 
 VueJS (en cours d'apprentissage)/Angular,
 DevOps(en particulier Docker(notions)),
