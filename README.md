@@ -28,3 +28,5 @@ Cybersécurité.
 #### Savoir-être  
 
 Organisation, aisance relationnelle, esprit d'analyse.
+
+https://tenor.com/sMTi.gif
