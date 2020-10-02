@@ -13,11 +13,11 @@ Je recherche un stage sur Paris ou en télé-travail pour pouvoir pratiquer mes 
 
 #### 🤖  Mes compétences Techniques
 
-ReactJs/Redux
-NodeJS (express)
-Git
-MongoDB
-NoSQL
+ReactJs/Redux,
+NodeJS (express),
+Git,
+MongoDB,
+NoSQL,
 
 #### 📚 Les technos/sujets qui m'intéressent :
 
