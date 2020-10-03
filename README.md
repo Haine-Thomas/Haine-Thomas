@@ -4,7 +4,7 @@
 
 #### 📝 Qui suis-je ?
 
-Je suis un développeur passionné, curieux et dynamique. 
+Je suis un développeur passionné, curieux et dynamique continuellement en quête de nouvelles connaissances et expériences.
 
 
 #### 🚀 Mon ambition
