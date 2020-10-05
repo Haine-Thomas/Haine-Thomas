@@ -22,6 +22,8 @@ NoSQL,
 #### 📚 Les technos/sujets qui m'intéressent :
 
 VueJS (en cours d'apprentissage)/Angular,
+Typescript(en cours d'apprentissage),
+GraphQL(notions)
 DevOps(en particulier Docker(notions)),
 Cybersécurité.
 
