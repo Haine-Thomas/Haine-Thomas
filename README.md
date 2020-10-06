@@ -18,6 +18,7 @@ NodeJS (express),
 Git,
 MongoDB,
 NoSQL,
+React Native
 
 #### 📚 Les technos/sujets qui m'intéressent :
 
