@@ -8,7 +8,7 @@ Je suis un développeur passionné, curieux et dynamique continuellement en quê
 
 
 #### 🚀 Mon ambition
-Je recherche un stage sur Paris ou en télé-travail pour pouvoir pratiquer mes acquis, approfondir mes connaissances et apprendre de nouvelles technos/pratiques,
+Je recherche un poste sur Paris ou en télé-travail pour pouvoir pratiquer mes acquis, approfondir mes connaissances et apprendre de nouvelles technos/pratiques,
  m'investir dans un projet, échanger et développer une expérience professionnelle.
 
 #### 🤖  Mes compétences Techniques
