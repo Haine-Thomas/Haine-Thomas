@@ -1,6 +1,6 @@
 ### Bonjour et bienvenue dans mon petit laboratoire de projets! 👋
 
-#### 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/hainethomas/)
+#### 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/hainethomas/) ou [Mon site internet](https://portfolio-hainethomas.herokuapp.com/#/home)
 
 #### 📝 Qui suis-je ?
 
