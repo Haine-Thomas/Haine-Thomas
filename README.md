@@ -34,6 +34,6 @@ Organisation, aisance relationnelle, esprit d'analyse.
 Les erreurs se sont pas des obstacles mais des tremplins
 
 #### Motto
-Be better, do better, keep learning, don't stop learning, don't stop questioning yourself
+Be better, do better, keep learning, don't stop learning, don't stop questioning yourself, don't stop to marvel
 
 https://tenor.com/sMTi.gif
