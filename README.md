@@ -31,5 +31,9 @@ Cybersécurité.
 #### Savoir-être  
 
 Organisation, aisance relationnelle, esprit d'analyse.
+Les erreurs se sont pas des obstacles mais des tremplins
+
+#### Motto
+Be better, do better, keep learning, don't stop learning, don't stop questioning yourself
 
 https://tenor.com/sMTi.gif
