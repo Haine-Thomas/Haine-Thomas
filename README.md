@@ -22,9 +22,9 @@ React Native
 
 #### 📚 Les technos/sujets qui m'intéressent :
 
-VueJS (en cours d'apprentissage)/Angular,
+VueJS (en cours d'apprentissage),
 Typescript(en cours d'apprentissage),
-GraphQL(notions)
+GraphQL-Apollo(en cours d'apprentissage)
 DevOps(en particulier Docker(notions)),
 Cybersécurité.
 
