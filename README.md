@@ -1,47 +1,46 @@
-### Bonjour et bienvenue dans mon petit laboratoire de projets! 👋
+# Salut, moi c'est Thomas Haine 👋
+### **Product Engineer Fullstack (JS/TS) | Spécialiste IA & Automatisation**
 
-#### 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/hainethomas/) ou [Mon site internet](https://portfolio-hainethomas.herokuapp.com/#/home)
+Je ne me contente pas de traduire des specs en lignes de code. Je conçois des **produits technologiques** qui transforment des problématiques métier complexes (Légal, Admin, Ops) en solutions fluides et automatisées.
 
-#### 📝 Qui suis-je ?
+---
 
-Je suis un développeur passionné, curieux et dynamique continuellement en quête de nouvelles connaissances et expériences.
+## 🚀 Mon Focus : "L'IA avec une conscience métier"
+En 2026, l'IA est partout, mais la valeur est dans la **fiabilité**. Mon expertise réside dans la création d'architectures **RAG (Retrieval-Augmented Generation)** pour garantir des réponses précises, sourcées et sans hallucinations.
 
+### 🏛️ Projet Phare : [JurisConsult AI](https://github.com/Haine-Thomas/ai-juridique-assistance)
+**Problème :** Le risque d'hallucination des LLM dans le domaine critique du droit.
+**Solution :** Un assistant juridique qui couple la puissance d'OpenAI avec une base de données vectorielle (Pinecone) pour ancrer chaque réponse dans la réalité juridique.
+- **Impact :** Analyse de contrats complexe en < 10s avec citation des articles de loi.
+- **Tech :** Next.js 15, Vercel AI SDK, Pinecone, TypeScript.
 
-#### 🚀 Mon ambition
-Je recherche un poste sur Paris ou en télé-travail pour pouvoir pratiquer mes acquis, approfondir mes connaissances et apprendre de nouvelles technos/pratiques,
- m'investir dans un projet, échanger et développer une expérience professionnelle.
+---
 
-#### 🤖  Mes compétences Techniques
+## 🛠️ Ma "Product Stack"
+Je choisis mes outils pour leur **vélocité** et leur **robustesse** :
 
-ReactJs/Redux,
-NodeJS (express),
-Git,
-MongoDB,
-NoSQL,
-React Native
+| Domaine | Technologies |
+| :--- | :--- |
+| **Frameworks** | Next.js 15 (App Router), React, Node.js |
+| **Intelligence** | OpenAI API, LangChain, Vector DB (Pinecone/Supabase) |
+| **Data & Type Safety** | TypeScript, Zod, Drizzle ORM, PostgreSQL |
+| **Infrastructure** | Vercel, Railway, GitHub Actions (CI/CD) |
+| **Productivity** | Tailwind CSS, Shadcn/UI, Framer Motion |
 
-#### 📚 Les technos/sujets qui m'intéressent :
+---
 
-VueJS (en cours d'apprentissage),
-Typescript(en cours d'apprentissage),
-GraphQL-Apollo(en cours d'apprentissage)
-DevOps(en particulier Docker(notions)),
-Cybersécurité.
+## 🧠 Ma Philosophie de Dev
+- **Product First :** Pourquoi coder cette feature ? Quel est le ROI pour l'utilisateur ?
+- **Performance & DX :** Un code typé est un code qui dure. Je mise tout sur TypeScript et les tests pour une maintenance sereine.
+- **Itération Rapide :** Déployer souvent, récolter du feedback, ajuster. Le "Perfect is the enemy of done".
 
-#### Savoir-être  
+---
 
-Organisation, aisance relationnelle, esprit d'analyse.
-Les erreurs se sont pas des obstacles mais des tremplins
+## 📫 On discute ?
+Je suis actuellement à l'écoute d'opportunités en tant que **Développeur Fullstack / Product Engineer** au sein d'équipes qui veulent repousser les limites de ce que l'IA peut apporter au quotidien.
 
-#### Motto
-You code.
+- 💼 **LinkedIn :** https://www.linkedin.com/in/hainethomas/
+- 📧 **Email :** thomahaine@gmail.com
 
-You debug.
-
-You struggle.
-
-You overcome.
-
-And you repeat.
-
-https://tenor.com/sMTi.gif
+---
+*“Un bon ingénieur n'est pas celui qui résout des problèmes avec du code, c'est celui qui sait quand le code est la meilleure solution.”*
